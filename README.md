@@ -1,8 +1,8 @@
-# Login Page
+# 🚀 Login Page
 
-A new Flutter project. Login page of a food delivery app using Flutter.
+A new Flutter project. Login page of a food delivery app using Flutter. 
 
-## Getting Started
+## Getting Started 👨‍💻
 
 This project is a starting point for a Flutter application.
 
