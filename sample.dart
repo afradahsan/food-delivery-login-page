@@ -1,2 +1,0 @@
-//SAMPLE CODE
-print(hello);
